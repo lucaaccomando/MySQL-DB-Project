@@ -25,7 +25,7 @@ This project implements a relational database for managing a delivery and rating
 ### **1. Stored Procedure**
 #### **Name**: `GetDriverAvgRating`
 A stored procedure to calculate the average rating for a given driver.
-
+<img src = "eerd1.png">
 #### **Syntax**:
 ```sql
 CALL GetDriverAvgRating(driver_id, @avg_rating);
